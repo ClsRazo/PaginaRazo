@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PaginaRazo/static/css/main.d71ef158.css",
+    "main.js": "/PaginaRazo/static/js/main.4d065ed3.js",
+    "static/js/453.953d9afd.chunk.js": "/PaginaRazo/static/js/453.953d9afd.chunk.js",
+    "static/media/ClaudeShannon.png": "/PaginaRazo/static/media/ClaudeShannon.c3bedb7e4be84ce76cc7.png",
+    "static/media/fotoRazo.png": "/PaginaRazo/static/media/fotoRazo.ef87e56a05d64419b4e4.png",
+    "static/media/dibujar2.jpg": "/PaginaRazo/static/media/dibujar2.77987634e0858519ee1f.jpg",
+    "static/media/videojuegos2.png": "/PaginaRazo/static/media/videojuegos2.75f0b1be52512db4abee.png",
+    "static/media/dibujar1.jpg": "/PaginaRazo/static/media/dibujar1.13816207376bed816127.jpg",
+    "static/media/CV.pdf": "/PaginaRazo/static/media/CV.cd9fbfb7dbd28e2d1f6c.pdf",
+    "static/media/instagram.png": "/PaginaRazo/static/media/instagram.a23709f5f6c2f6bed14d.png",
+    "static/media/bailar1.png": "/PaginaRazo/static/media/bailar1.b716781fbb9ba1673dbc.png",
+    "static/media/Enigma.png": "/PaginaRazo/static/media/Enigma.5560b9d610230b6852eb.png",
+    "static/media/bailar3.png": "/PaginaRazo/static/media/bailar3.5c3340eedb3e53905d30.png",
+    "static/media/bailar2.png": "/PaginaRazo/static/media/bailar2.320b9ce8e83c3fc639ae.png",
+    "static/media/secundaria.png": "/PaginaRazo/static/media/secundaria.33ae29354a58f58b7627.png",
+    "static/media/vocacional.png": "/PaginaRazo/static/media/vocacional.76bcecd649420eee24cb.png",
+    "static/media/acercaDe.png": "/PaginaRazo/static/media/acercaDe.39f00b33c3de2039edde.png",
+    "static/media/twitter.png": "/PaginaRazo/static/media/twitter.cbb3ced8e1f176411362.png",
+    "static/media/hobbies.png": "/PaginaRazo/static/media/hobbies.0cf21c95d8a843526e09.png",
+    "static/media/email.png": "/PaginaRazo/static/media/email.b631423ab89082ba2cdc.png",
+    "static/media/dibujar3.jpg": "/PaginaRazo/static/media/dibujar3.75e89e6ac4fe3312e308.jpg",
+    "static/media/contacto.png": "/PaginaRazo/static/media/contacto.ec6c16505e3f1b099a97.png",
+    "static/media/publicKey.png": "/PaginaRazo/static/media/publicKey.a9d6f8c91f7b5853225c.png",
+    "static/media/CV.png": "/PaginaRazo/static/media/CV.e75f76ae36d6dddb567a.png",
+    "static/media/videojuegos1.png": "/PaginaRazo/static/media/videojuegos1.4da73c409445d2a67193.png",
+    "static/media/universidad.png": "/PaginaRazo/static/media/universidad.eb9da8de24bac1efca08.png",
+    "static/media/videojuegos3.png": "/PaginaRazo/static/media/videojuegos3.dadeeeaea0fbf0cb30d0.png",
+    "index.html": "/PaginaRazo/index.html",
+    "main.d71ef158.css.map": "/PaginaRazo/static/css/main.d71ef158.css.map",
+    "main.4d065ed3.js.map": "/PaginaRazo/static/js/main.4d065ed3.js.map",
+    "453.953d9afd.chunk.js.map": "/PaginaRazo/static/js/453.953d9afd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71ef158.css",
+    "static/js/main.4d065ed3.js"
+  ]
+}
