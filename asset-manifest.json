@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PaginaRazo/static/css/main.d71ef158.css",
-    "main.js": "/PaginaRazo/static/js/main.4d065ed3.js",
+    "main.js": "/PaginaRazo/static/js/main.ae7fd9a6.js",
     "static/js/453.953d9afd.chunk.js": "/PaginaRazo/static/js/453.953d9afd.chunk.js",
     "static/media/ClaudeShannon.png": "/PaginaRazo/static/media/ClaudeShannon.c3bedb7e4be84ce76cc7.png",
     "static/media/fotoRazo.png": "/PaginaRazo/static/media/fotoRazo.ef87e56a05d64419b4e4.png",
@@ -29,11 +29,11 @@
     "static/media/videojuegos3.png": "/PaginaRazo/static/media/videojuegos3.dadeeeaea0fbf0cb30d0.png",
     "index.html": "/PaginaRazo/index.html",
     "main.d71ef158.css.map": "/PaginaRazo/static/css/main.d71ef158.css.map",
-    "main.4d065ed3.js.map": "/PaginaRazo/static/js/main.4d065ed3.js.map",
+    "main.ae7fd9a6.js.map": "/PaginaRazo/static/js/main.ae7fd9a6.js.map",
     "453.953d9afd.chunk.js.map": "/PaginaRazo/static/js/453.953d9afd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d71ef158.css",
-    "static/js/main.4d065ed3.js"
+    "static/js/main.ae7fd9a6.js"
   ]
 }
