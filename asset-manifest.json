@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PaginaRazo/static/css/main.d71ef158.css",
-    "main.js": "/PaginaRazo/static/js/main.9299437c.js",
+    "main.js": "/PaginaRazo/static/js/main.58e4fa55.js",
     "static/js/453.953d9afd.chunk.js": "/PaginaRazo/static/js/453.953d9afd.chunk.js",
     "static/media/ClaudeShannon.png": "/PaginaRazo/static/media/ClaudeShannon.c3bedb7e4be84ce76cc7.png",
     "static/media/fotoRazo.png": "/PaginaRazo/static/media/fotoRazo.ef87e56a05d64419b4e4.png",
     "static/media/dibujar2.jpg": "/PaginaRazo/static/media/dibujar2.77987634e0858519ee1f.jpg",
+    "static/media/CV.pdf": "/PaginaRazo/static/media/CV.c4f42b80fc981447c5f3.pdf",
     "static/media/videojuegos2.png": "/PaginaRazo/static/media/videojuegos2.75f0b1be52512db4abee.png",
     "static/media/dibujar1.jpg": "/PaginaRazo/static/media/dibujar1.13816207376bed816127.jpg",
-    "static/media/CV.pdf": "/PaginaRazo/static/media/CV.cd9fbfb7dbd28e2d1f6c.pdf",
     "static/media/instagram.png": "/PaginaRazo/static/media/instagram.a23709f5f6c2f6bed14d.png",
     "static/media/bailar1.png": "/PaginaRazo/static/media/bailar1.b716781fbb9ba1673dbc.png",
     "static/media/Enigma.png": "/PaginaRazo/static/media/Enigma.5560b9d610230b6852eb.png",
@@ -29,11 +29,11 @@
     "static/media/videojuegos3.png": "/PaginaRazo/static/media/videojuegos3.dadeeeaea0fbf0cb30d0.png",
     "index.html": "/PaginaRazo/index.html",
     "main.d71ef158.css.map": "/PaginaRazo/static/css/main.d71ef158.css.map",
-    "main.9299437c.js.map": "/PaginaRazo/static/js/main.9299437c.js.map",
+    "main.58e4fa55.js.map": "/PaginaRazo/static/js/main.58e4fa55.js.map",
     "453.953d9afd.chunk.js.map": "/PaginaRazo/static/js/453.953d9afd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d71ef158.css",
-    "static/js/main.9299437c.js"
+    "static/js/main.58e4fa55.js"
   ]
 }
